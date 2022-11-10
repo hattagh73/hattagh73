@@ -1,6 +1,11 @@
-### Hi there 👋
+
+
+![Frame 9](https://user-images.githubusercontent.com/92319348/201055116-f15e80cc-6eb3-4424-a4a3-65f57f8a020d.jpg)
 
 <!--
+
+### Hi there 👋
+
 **hattagh73/hattagh73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Image Reference](https://icons8.com/illustrations/illustration/business-3d-young-woman-standing-with-laptop)
+
 -->
