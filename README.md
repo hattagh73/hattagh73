@@ -1,4 +1,4 @@
-![banner-600h](https://user-images.githubusercontent.com/92319348/201092704-0eb6a25a-0170-4057-8d30-5bf0ca52c2c8.jpg)
+![banner-hatta-600h](https://user-images.githubusercontent.com/92319348/201095139-f2cbb42c-0c0e-4e04-8eef-a66acaa041b7.jpg)
 
 <!--
 
