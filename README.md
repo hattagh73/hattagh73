@@ -1,4 +1,4 @@
-![banner-hatta-400h](https://user-images.githubusercontent.com/92319348/210414317-ccb1b738-1b3a-4281-a92b-24a654ae9b18.png)
+![banner-hatta-400h](https://user-images.githubusercontent.com/92319348/210487266-19ec4f67-fb62-49d4-ad91-d4d986d13e53.png)
 
 <!-- ![banner-hatta-600h](https://user-images.githubusercontent.com/92319348/201095139-f2cbb42c-0c0e-4e04-8eef-a66acaa041b7.jpg) -->
 
